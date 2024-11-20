@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning React</p>
+<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning React<br>📫 How to reach me: kamyszekdamian@outlook.com</p>
 
 ###
 
