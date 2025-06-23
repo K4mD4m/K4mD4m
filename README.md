@@ -33,7 +33,7 @@
 <h3>QA / Manual Testing</h3>
 
 - 📝 Test case creation & execution
-- 🐞 Bug reporting & issue tracking (Jira)
+- 🐞 Bug reporting & issue tracking
 - 🧭 Exploratory testing using browser DevTools
 - 💬 Communication with developers & reporting findings clearly
 
