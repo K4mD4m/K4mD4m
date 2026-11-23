@@ -1,33 +1,6 @@
 <div align="center">
 
-```
-           .:--==--:.
-       .=*%@@@@@@@@@@%*=:
-     -#@@@@@@@@@@@@@@@@@@#-
-   :#@@@@@@@@@@@@@@@@@@@@@@#:
-  =@@@@@@@@@@@@@@@@@@@@@@@@@@=
- =@@@@@@@@@@@@@@@@@@@@@@@@@@@@=
-.%%@@@@@@@@@@@@@@@@@@@@@@@@@@%%.
-=#=+@@@@@@@@@@@@@@@@@@@@@@@@+=#=
-=+==%@@@@%%@@@@@@@@@@%%@@@@%==++
--*==%@*:   .-*@@@@#-.   :+@%==+-
-.*+*@=   ::   +@@*   ::   -@*=*.
- :%@%.  -@@:  :@@-  .%@=  .%@%-
-  :%@=   ..   *@@*   ..   =@%-
-   +@@#-. ..=#@@@@#=.. .-*@@+
-   =@@@@@@@@@@@==@@@@@@@@@@@+
-   -@@@@@@@@@@=  =@@@@@@@@@@-
-    -#@@@@@@@#+**+#@@@@@@@#-
-      :%@@%@%@@%@%@@@@%@@:
-      .%@%=@=%#+@=@+#%=@%.
-      .#+=:+:==-+:+-==:+#.
-       *@%=@=%#+@=@*#%=@*
-        -+************+-
-
-        [ K 4 m D 4 m ]
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=1600&pause=400&color=00FF78&background=0D1117FF&multiline=true&width=560&height=230&lines=%24+.%2Fconnect+--target+K4mD4m;%5B%2A%5D+establishing+secure+connection...;%5B%2B%5D+access+granted;%24+whoami;full-stack+developer+%2F%2F+cybersec+enthusiast;%24+echo+%24STATUS;coding+by+day%2C+packets+by+night_" alt="terminal" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=1400&pause=1200&color=00FF78&background=0D1117FF&multiline=true&groups=5,4&width=520&height=165&lines=%24+nmap+-sV+k4md4m;22%2Ftcp+open+full-stack-developer;443%2Ftcp+open+netops-tools-builder;1337%2Ftcp+open+cybersec-enthusiast;Nmap+done%3A+1+host+up%2C+3+ports+open;%24+ssh+root%40k4md4m;Connection+closed+by+remote+host.;%24+sudo+%21%21;nice+try.+this+incident+will+be+reported_" alt="terminal" />
 
 </div>
 
@@ -35,12 +8,8 @@
 
 ```bash
 ┌──(k4md4m㉿github)-[~]
-└─$ cat about_me.txt
-
-  [+] Role      : Full-stack developer
-  [+] Building  : tools that keep networks running
-  [+] Interests : cybersecurity enthusiast
-  [+] Motto     : "Trust nothing. Verify everything."
+└─$ cat motto.txt
+  "Trust nothing. Verify everything."
 
 ┌──(k4md4m㉿github)-[~]
 └─$ ls ./repos
@@ -50,8 +19,6 @@
 └─$ uptime
   last seen: rarely. but watching. 👀
 ```
-
-<div align="center">
 
 ```
 [ SYSTEM ] connection established...
