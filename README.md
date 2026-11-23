@@ -1,19 +1,33 @@
 <div align="center">
 
 ```
-            ███████████████████
-         ███                   ███
-       ██     ▄▄▄▄       ▄▄▄▄     ██
-      ██    ██ ▀▀ ██   ██ ▀▀ ██    ██
-      ██    ██ ✖  ██   ██ ✖  ██    ██
-      ██     ▀▀▀▀▀  ▄█▄  ▀▀▀▀▀     ██
-       ██          █████          ██
-         ██  ▐█▌▐█▌▐█▌▐█▌▐█▌▐█▌  ██
-           ███▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀███
-            K 4 m D 4 m
+           .:--==--:.
+       .=*%@@@@@@@@@@%*=:
+     -#@@@@@@@@@@@@@@@@@@#-
+   :#@@@@@@@@@@@@@@@@@@@@@@#:
+  =@@@@@@@@@@@@@@@@@@@@@@@@@@=
+ =@@@@@@@@@@@@@@@@@@@@@@@@@@@@=
+.%%@@@@@@@@@@@@@@@@@@@@@@@@@@%%.
+=#=+@@@@@@@@@@@@@@@@@@@@@@@@+=#=
+=+==%@@@@%%@@@@@@@@@@%%@@@@%==++
+-*==%@*:   .-*@@@@#-.   :+@%==+-
+.*+*@=   ::   +@@*   ::   -@*=*.
+ :%@%.  -@@:  :@@-  .%@=  .%@%-
+  :%@=   ..   *@@*   ..   =@%-
+   +@@#-. ..=#@@@@#=.. .-*@@+
+   =@@@@@@@@@@@==@@@@@@@@@@@+
+   -@@@@@@@@@@=  =@@@@@@@@@@-
+    -#@@@@@@@#+**+#@@@@@@@#-
+      :%@@%@%@@%@%@@@@%@@:
+      .%@%=@=%#+@=@+#%=@%.
+      .#+=:+:==-+:+-==:+#.
+       *@%=@=%#+@=@*#%=@*
+        -+************+-
+
+        [ K 4 m D 4 m ]
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF78&center=true&vCenter=true&width=600&lines=%3E+whoami;Full-stack+developer;Cybersec+enthusiast;Breaking+things+to+see+how+they+work;Repos+private.+Skills+public." alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=1600&pause=400&color=00FF78&background=0D1117FF&multiline=true&width=560&height=230&lines=%24+.%2Fconnect+--target+K4mD4m;%5B%2A%5D+establishing+secure+connection...;%5B%2B%5D+access+granted;%24+whoami;full-stack+developer+%2F%2F+cybersec+enthusiast;%24+echo+%24STATUS;coding+by+day%2C+packets+by+night_" alt="terminal" />
 
 </div>
 
@@ -45,3 +59,4 @@
 ```
 
 </div>
+
