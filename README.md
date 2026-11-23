@@ -21,9 +21,3 @@
 ```
 
 ```
-[ SYSTEM ] connection established...
-[ LOGOUT ] session closed. see you in the logs.
-```
-
-</div>
-
