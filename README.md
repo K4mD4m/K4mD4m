@@ -19,5 +19,3 @@
 └─$ uptime
   last seen: rarely. but watching. 👀
 ```
-
-```
